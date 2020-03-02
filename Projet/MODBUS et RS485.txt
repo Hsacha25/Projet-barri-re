@@ -1,0 +1,6 @@
+
+- recherche sur le modbus et le RS485
+http://www.yoctopuce.com/FR/article/petite-introduction-a-rs485-et-modbus
+https://www.virtual-serial-port.org/fr/articles/modbus-vs-rs485/
+https://www.virtual-serial-port.org/fr/articles/modbus-rtu-guide/
+https://www.virtual-serial-port.org/fr/article/modbus-decoder/
